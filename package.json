@@ -1,0 +1,25 @@
+{
+  "name": "portfolio_website",
+  "version": "1.0.0",
+  "description": "Portfolio website made using Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NMsby/Portfolio-Website-using-Sass.git"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "sass",
+    "nodejs"
+  ],
+  "author": "Nelson Masbayi Muyodi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NMsby/Portfolio-Website-using-Sass/issues"
+  },
+  "homepage": "https://github.com/NMsby/Portfolio-Website-using-Sass#readme"
+}
